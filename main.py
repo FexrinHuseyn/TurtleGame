@@ -108,7 +108,7 @@ def startgame():
     setup_turtles()
     hideturtle()
     showturtlerandom()
-    countdown(15)
+    countdown(10)
     turtle.tracer(1)
 
 
