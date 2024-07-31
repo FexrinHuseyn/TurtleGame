@@ -5,5 +5,6 @@ Turtle Game Screen
 
 Turtle Game Gameover Screen
 
-![Screenshot 2024-07-26 230158](https://github.com/user-attachments/assets/aacc3a58-541d-4bdb-a3ac-eb179dd8f3a1)
+![Screenshot 2024-07-31 215928](https://github.com/user-attachments/assets/0bbf258f-93d2-4ef5-a2c0-1caf7d35f753)
+
 
